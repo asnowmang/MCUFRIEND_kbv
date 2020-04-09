@@ -1,5 +1,6 @@
 #if 1
 
+#include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <MCUFRIEND_kbv.h>
 MCUFRIEND_kbv tft;
